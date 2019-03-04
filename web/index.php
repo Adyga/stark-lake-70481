@@ -11,7 +11,7 @@
 <body>
 <div class="container">
     <h1>My Contacts Listing</h1>
-    <h3>Read in a CSV file into a HTML table</h3>
+    <h3>Read in CSV file into a HTML table</h3>
     <?php
 
     $row = 1;
