@@ -13,7 +13,6 @@
     <h1>My Contacts Listing</h1>
     <h3>Read in CSV file into a HTML table</h3>
     <?php
-
     $row = 1;
     if (($handle = fopen("test.csv", "r")) !== FALSE) {
 
@@ -46,7 +45,6 @@
             }
             $row++;
         }
-
         echo '</tbody></table>';
         fclose($handle);
     }
