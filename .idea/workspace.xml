@@ -7,10 +7,6 @@
       <change beforePath="$PROJECT_DIR$/../ThankYou" beforeDir="false" afterPath="$PROJECT_DIR$/../ThankYou" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ThankYouPage" beforeDir="false" afterPath="$PROJECT_DIR$/../ThankYouPage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/is601-csv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frozen-sands-13867.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../is601-csv" beforeDir="false" afterPath="$PROJECT_DIR$/../is601-csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../is601-read-csv/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../is601-read-csv/.idea/is601-read-csv.iml" beforeDir="false" />
@@ -158,7 +154,7 @@
       <workItem from="1551677475867" duration="189000" />
       <workItem from="1551677738799" duration="530000" />
       <workItem from="1551680437230" duration="3945000" />
-      <workItem from="1551744983979" duration="248000" />
+      <workItem from="1551744983979" duration="531000" />
     </task>
     <task id="LOCAL-00001" summary="Read in CSV">
       <created>1551645868821</created>
@@ -195,16 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1551741295974</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Read in CSV">
+      <created>1551745391401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551745391401</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14056000" />
+    <option name="totallyTimeSpent" value="14339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="927" height="951" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.323496" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.323496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,7 +220,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.49931973" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.49878347" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
